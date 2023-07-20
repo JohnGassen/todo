@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTextView">18sp</dimen>
+    <dimen name="sizeTextButton">15sp</dimen>
+</resources>
